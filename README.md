@@ -1,6 +1,6 @@
 # Password_Generator
-**Language: Python
+Language: **Python**
 
-Module: random**
+Module: random
 
 The proposed system can generate Easy or Hard level of distinct password for users.
